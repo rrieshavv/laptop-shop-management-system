@@ -1,0 +1,5 @@
+inspiron 7,dell,$880,5739,I7 11TH GEN,GTX 3070
+aspire 14p,acer,$989,8656,I5 10TH GEN,GTX 3060
+zenbook 15,asus,$759,1233,I7 12TH GEN,GTX 3060
+z-flip 14p,vaio,$749,3242,I3 11TH GEN,GTX 3070
+twinpad 12,lava,$249,1573,I7 10TH GEN,GTX 3070
