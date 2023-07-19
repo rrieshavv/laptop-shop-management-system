@@ -14,3 +14,5 @@ Clone this repository to your local machine.
    ```
    main.py
    ```
+# To change laptops in stock explicitly
+1. To update the available laptops in stock, you can simply modify the stocklist.txt file. Please note that it is crucial not to alter the existing format. (IMPORTANT)
