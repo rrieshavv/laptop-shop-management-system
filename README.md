@@ -5,7 +5,7 @@ Before running the Laptop Shop Management System, ensure you have the "pip" prer
 # Getting started
 Clone this repository to your local machine.
    ```bash
-   git clone https://github.com/your-username/laptop-shop-management-system.git
+   git clone https://github.com/rrieshavv/laptop-shop-management-system.git
    cd laptop-shop-management-system
   ```
 # How to use
